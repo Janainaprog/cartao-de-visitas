@@ -1,0 +1,21 @@
+
+/*seletor de tag*/
+p{
+    color: yelow;
+}
+/*seletor de classe*/
+patrick {
+    font-family: Arial;
+    font-size: 16pt;
+}
+/*seletor de id*/
+#Bob-esponja {
+    background-color:purple;
+    color: white;
+}
+
+/*seletro de tag*/
+body {
+    background-color: beige;
+}
+
